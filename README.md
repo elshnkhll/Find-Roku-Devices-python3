@@ -1,4 +1,4 @@
-# Find Roku Devices using python3
+# Find Roku Devices using Python3
 
 This script discovers DIAL-compatible devices (including Roku) on the local network using SSDP.
 
